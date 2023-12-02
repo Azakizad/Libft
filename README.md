@@ -1,5 +1,5 @@
 # Libft
-This project is about programming a C library
+A C library
 
 Libft (42cursus) 2022-2023
 
